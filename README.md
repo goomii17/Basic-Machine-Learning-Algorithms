@@ -1,4 +1,5 @@
 # Basic-Machine-Learning-Algorithms
-Basic Machine Learning Algorithms in Python
+Multiple jupyter notebooks with examples of the simplest ML algorithms.
 
-Creation Date: 2022-01
+<br>
+<strong>Creation Date</strong>: 2022-01
